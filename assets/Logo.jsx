@@ -2,7 +2,7 @@ import React from 'react';
 import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
 import Svg, { Path , Defs, G, ClipPath} from 'react-native-svg';
 
-const Logo = ({ onPress }) => {
+const Logo = () => {
   return (
     < View >
 

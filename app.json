@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "CheckPoint",
-    "slug": "CheckPoint",
+    "name": "Milestone",
+    "slug": "milestone",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,15 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.adilreactnative.Milestone"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "e0ac54a2-632b-48f1-b760-93679a3b3343"
+        "projectId": "c8ca650d-cd38-42f0-9543-e0f2b4e303be"
       }
-    }
+    },
+    "owner": "adilreactnative"
   }
 }
